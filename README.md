@@ -11,13 +11,10 @@
     </a>
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=baptisteCanac&theme=merko&show_icons=true" alt="baptistecanac" />
-</p>
+![test](https://gitwar.herokuapp.com/badge?username=your-github-username&style=flat-square)
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko" alt="baptistecanac" />
-</p>
+<h2 align="center">🛠️  Github stats 🛠️</h2><br/>
 
-![](https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko">
