@@ -11,8 +11,13 @@
     </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baptisteCanac&theme=merko&show_icons=true)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=baptisteCanac&theme=merko&show_icons=true" alt="baptistecanac" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko)
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko" alt="baptistecanac" />
+</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=radical&no-frame=false&no-bg=true&margin-w=4)
