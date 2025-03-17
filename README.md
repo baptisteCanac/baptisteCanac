@@ -1,6 +1,7 @@
-<h1 align="center">
+[banner]()
+<!--<h1 align="center">
   Hi there 👋
-</h1>
+</h1>-->
 
 <h2 align="center">🛠️  Languages-Frameworks-Tools 🛠️</h2><br/>
   <div align="center">
@@ -10,8 +11,6 @@
       <img src="https://skillicons.dev/icons?i=raspberrypi,linux,apple" /><br>
     </a>
 </div>
-
-![test](https://gitwar.herokuapp.com/badge?username=your-github-username&style=flat-square)
 
 <h2 align="center">🛠️  Github stats 🛠️</h2><br/>
 
