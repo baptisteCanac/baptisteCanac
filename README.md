@@ -14,8 +14,10 @@
 
 <h2 align="center">🛠️  Github stats 🛠️</h2><br/>
 
-<div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko">
 </div>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko"> -->
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
