@@ -1,4 +1,4 @@
-[banner]()
+<img src="https://github.com/baptisteCanac/baptisteCanac/blob/main/git_banner.png">
 <!--<h1 align="center">
   Hi there 👋
 </h1>-->
@@ -14,6 +14,8 @@
 
 <h2 align="center">🛠️  Github stats 🛠️</h2><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko"> -->
