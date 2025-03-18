@@ -20,4 +20,4 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=baptisteCanac&theme=onedark&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues"> -->
