@@ -15,7 +15,7 @@
 <h2 align="center">🛠️  Github stats 🛠️</h2><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptisteCanac&hide_progress=true&theme=merko">
+  
 </div>
 
 <br>
