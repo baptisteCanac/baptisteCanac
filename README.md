@@ -6,7 +6,7 @@
 <h2 align="center">🛠️  Languages-Frameworks-Tools 🛠️</h2><br/>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,flask,javascript,java,html,css,mysql,bash,php" /><br>
+      <img src="https://skillicons.dev/icons?i=python,flask,typescript,java,html,css,mysql,bash,php" /><br>
       <img src="https://skillicons.dev/icons?i=vue,github,figma,git,jquery,selenium" /><br>
       <img src="https://skillicons.dev/icons?i=raspberrypi,linux,apple" /><br>
     </a>
