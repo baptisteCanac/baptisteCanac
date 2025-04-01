@@ -7,7 +7,7 @@
   <div align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,flask,typescript,java,html,css,mysql,bash,php" /><br>
-      <img src="https://skillicons.dev/icons?i=vue,github,figma,git,jquery,selenium" /><br>
+      <img src="https://skillicons.dev/icons?i=jquery,github,figma,git,vue,selenium" /><br>
       <img src="https://skillicons.dev/icons?i=raspberrypi,linux,apple" /><br>
     </a>
 </div>
